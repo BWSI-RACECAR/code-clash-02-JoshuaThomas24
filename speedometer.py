@@ -41,18 +41,6 @@ class Solution:
         return False
 
 
-array = [1,5,8,12,4]
-target = 20
-print(two_numbers(array.target))
-
-class Solution:
-    def two_numbers(self, ary, target):
-        # type ary: list
-        # type target: int
-        # return type: list or bool
-
-       # TODO: Write code below to return a list with the solution to the prompt
-        pass
 
 def main():
     array = input().split(" ")
